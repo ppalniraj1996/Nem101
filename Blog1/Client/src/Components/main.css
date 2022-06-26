@@ -1,0 +1,8 @@
+th,td{
+    border: 1px solid black;
+    width: 10%;
+}
+.table{
+    justify-content: center;
+    margin: auto;
+}
